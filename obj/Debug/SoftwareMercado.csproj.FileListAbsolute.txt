@@ -1,0 +1,11 @@
+D:\Gabriel\Desen. Sistema\SoftwareMercado\bin\Debug\SoftwareMercado.exe.config
+D:\Gabriel\Desen. Sistema\SoftwareMercado\bin\Debug\SoftwareMercado.exe
+D:\Gabriel\Desen. Sistema\SoftwareMercado\bin\Debug\SoftwareMercado.pdb
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.csproj.AssemblyReference.cache
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.csproj.SuggestedBindingRedirects.cache
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.frmPrincipal.resources
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.Properties.Resources.resources
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.csproj.GenerateResource.cache
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.csproj.CoreCompileInputs.cache
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.exe
+D:\Gabriel\Desen. Sistema\SoftwareMercado\obj\Debug\SoftwareMercado.pdb
